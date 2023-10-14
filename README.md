@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Imfornation Technology Projects:</h2>
 
-  - [Active Diectory Home Lab](https://github.com/Cwaters24/)
+  - [Active Diectory Home Lab](https://github.com/Cwaters24/ActiveDiectoryLab/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
