@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chris! </h1>
 
-<h2>👨‍💻 Infornation Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
   - [Active Diectory Home Lab](https://github.com/Cwaters24/ActiveDiectoryLab/tree/main)
 
