@@ -1,6 +1,7 @@
 <h1>Hi, I'm Chris! </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+[Azure Cybersecurity SOC Lab](https://github.com/Cwaters24/Azure-SOC) 
 
   - [Active Diectory Home Lab](https://github.com/Cwaters24/ActiveDiectoryLab/tree/main)
 
