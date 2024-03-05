@@ -14,8 +14,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[linkedin]: www.linkedin.com/in/chris-waters-939a96190
+[linkedin]: [
+(https://www.linkedin.com/in/chris-w-939a96190/)
 
-
-(https://www.linkedin.com/in/chris-waters-939a96190/)
 
