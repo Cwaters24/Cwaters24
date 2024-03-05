@@ -3,8 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 *osTicket - Prerequisites and Installation
-](https://github.com/Cwaters24/Osticket-Prereqs)https://github.com/Cwaters24/Osticket-Prereqs
-
+[(https://github.com/Cwaters24/Osticket-Prereqs)
 
 *[Azure Cybersecurity SOC Lab](https://github.com/Cwaters24/Azure-SOC) 
 
