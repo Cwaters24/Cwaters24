@@ -11,10 +11,5 @@
 *[Active Diectory Home Lab](https://github.com/Cwaters24/ActiveDiectoryLab/tree/main)
 
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[linkedin]: [
-(https://www.linkedin.com/in/chris-w-939a96190/)
-
+<h2> 🤳 Connect with me:</h2>[linkedin]: [(https://www.linkedin.com/in/chris-w-939a96190/)https://www.linkedin.com/in/chris-w-939a96190/
 
